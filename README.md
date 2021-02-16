@@ -5,21 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeb-ai" alt="saeb-ai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/laser39" target="blank"><img src="https://img.shields.io/twitter/follow/laser39?logo=twitter&style=for-the-badge" alt="laser39" /></a> </p>
+<p align="left"> <a href="https://twitter.com/laser_39" target="blank"><img src="https://img.shields.io/twitter/follow/laser_39?logo=twitter&style=for-the-badge" alt="laser_39" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **Angular JS**
 
-- 👨‍💻 All of my projects are available at [https://t.co/BttQulaENX?amp=1](https://t.co/BttQulaENX?amp=1)
+- 👨‍💻 All of my projects are available at [https://github.com/SAEb-ai](https://github.com/SAEb-ai)
 
-- 📝 I regularly write articles on [https://t.co/6zETKEIg4n?amp=1](https://t.co/6zETKEIg4n?amp=1)
+- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/shahbazalam75508/articles](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
 
 - 📫 How to reach me **shahbazalam75508@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/laser_39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="laser39" height="30" width="40" /></a>
+<a href="https://twitter.com/laser_39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="laser_39" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shahbazalam75508/articles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/shahbazalam75508/articles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,19 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeb-ai&show_icons=true&locale=en" alt="saeb-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeb-ai&" alt="saeb-ai" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
