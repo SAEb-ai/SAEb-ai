@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SAEb-ai](https://github.com/SAEb-ai)
+- 👨‍💻 All of my projects are available at [Projects Section](https://github.com/SAEb-ai)
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/shahbazalam75508/articles](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
+- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
 
-- 📫 How to reach me **shahbazalam75508@gmail.com**
+- 📫 How to reach me Mail me on my **shahbazalam75508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
