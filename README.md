@@ -9,13 +9,12 @@
 
 - 👯 I’m looking to collaborate on **Cypress related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Helping-Society/helpers](https://github.com/Helping-Society/helpers)
+- 👨‍💻 All of my projects are available at [Projects Section](https://github.com/SAEb-ai)
 
-- 📝 I regularly write articles on [[GeeksForGeeks](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)][GeeksForGeeks](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
-
+- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
 - 📫 How to reach me **shahbazalam75508@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/78828770-f593-11eb-a2b3-0bc27e8c6446](https://novoresume.com/editor/resume/78828770-f593-11eb-a2b3-0bc27e8c6446)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
