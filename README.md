@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/laser_39" target="blank"><img src="https://img.shields.io/twitter/follow/laser_39?logo=twitter&style=for-the-badge" alt="laser_39" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently creating a MERN based project **Helpers** with the aim to help the poorer sections of the society by providing them with the essentials. It is open for contrubution for All.
 
 - 👨‍💻 All of my projects are available at [Projects Section](https://github.com/SAEb-ai)
 
