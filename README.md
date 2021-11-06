@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Shahbaz Alam</h1>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Md Shahbaz Alam! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeb-ai&label=Profile%20views&color=0e75b6&style=flat" alt="saeb-ai" /> </p>
@@ -14,6 +15,12 @@
 - 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/shahbazalam75508/articles)
 - 📫 How to reach me **shahbazalam75508@gmail.com**
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx shahbaz
+```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 <h3 align="left">Connect with me:</h3>
